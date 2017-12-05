@@ -1,3 +1,2 @@
 # Elevator-Run
-#What up Denzell
-#YOOOOOOO!!!
+THis is Denzell. I am eperimenting with github!
